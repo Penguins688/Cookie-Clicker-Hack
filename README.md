@@ -10,5 +10,6 @@
 **This automatically generates golden cookies and clicks them**
 
 ## Upgrade.js
-**This automatically gives you sugar lumps and upgrades all of your buildings**
+**This automatically gives you sugar lumps and upgrades all of your buildings.**
+<br>
 **This one only works once you have sugar lumps unlocked**
